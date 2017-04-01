@@ -1,0 +1,20 @@
+runtime: custom
+env: flex
+env_variables:
+# Your MongoDB URI
+DATABASE_URI: mongodb://gymmobile:sarboleo@ds125909-a0.mlab.com:25909,ds125909-a1.mlab.com:25909/openpark?replicaSet=rs-ds125909
+
+# Absolute path to your cloud code main.js file
+CLOUD_PATH: ./cloud/main.js
+
+# Parse App id
+APP_ID: gymmobileserver
+
+# master key
+MASTER_KEY: gymmobileservermasterkeysarboleo
+
+# file key
+FILE_KEY: gymmobileserverfilestore
+
+# Mount path for Parse API
+PARSE_MOUNT_PATH: /parse
