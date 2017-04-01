@@ -1,7 +1,6 @@
 runtime: custom
 env: flex
 env_variables:
-  DATABASE_URI: mongodb://localhost:27017/dev
   # Your MongoDB URI
   DATABASE_URI: mongodb://gymmobile:sarboleo@ds125909-a0.mlab.com:25909,ds125909-a1.mlab.com:25909/openpark?replicaSet=rs-ds125909
 
