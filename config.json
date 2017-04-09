@@ -1,0 +1,9 @@
+{
+  "DATABASE_URI": "mongodb://gymmobile:sarboleo@ds125909-a0.mlab.com:25909,ds125909-a1.mlab.com:25909/openpark?replicaSet=rs-ds125909",
+  "CLOUD_PATH": "./cloud/main.js",
+  "APP_ID": "gymmobileserver",
+  "MASTER_KEY": "gymmobileservermasterkeysarboleo",
+  "FILE_KEY": "gymmobileserverfilestore",
+  "PARSE_MOUNT_PATH": "/parse",
+  "SERVER_URL": "https://gymmobileserver.herokuapp.com/"
+}
